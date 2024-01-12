@@ -12,7 +12,7 @@ Preview
 
 Usage:
 
-To view the cloned Amazon index webpage:
+To view the Profile card:
 * Clone this repository to your local machine using git clone https://github.com/    Suyash-Dhakal/Profile-Card.git
 * Open index.html in your preferred web browser.
 
